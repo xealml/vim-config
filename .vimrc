@@ -5,7 +5,11 @@ set ignorecase
 set hlsearch    "设置搜索结果高亮显示"
 set incsearch
 
-set bg=dark     "设置背景色"
+"设置背景色"
+set bg=dark
+
+" 语法高亮
+syntax on
 
 "自动缩进
 set autoindent

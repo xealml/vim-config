@@ -2,9 +2,8 @@
 mkdir -p ~/.vim/autoload ~/.vim/bundle && \
 > curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
 
-# cp -rv ./.vimrc ~/.vimrc
+sudo cp -rv ./.vimrc ~/.vimrc
 mkdir -p ~/.vim/bundle
-
 
 # 根据任意字符对齐
 git clone git://github.com/godlygeek/tabular.git ~/.vim/bundle/tabular/
