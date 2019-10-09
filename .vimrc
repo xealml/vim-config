@@ -6,7 +6,7 @@ set hlsearch    "设置搜索结果高亮显示"
 set incsearch
 
 "设置背景色"
-set bg=dark
+set bg=light
 
 " 语法高亮
 syntax on
