@@ -82,3 +82,8 @@ au VimEnter * RainbowParenthesesToggle
 au Syntax * RainbowParenthesesLoadRound
 au Syntax * RainbowParenthesesLoadSquare
 au Syntax * RainbowParenthesesLoadBraces
+
+
+" airline 下的标签切换
+map <S-p> :bp<CR> " prev"
+map <S-n> :bn<CR> " next"
