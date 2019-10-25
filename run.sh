@@ -26,3 +26,5 @@ git clone https://github.com/Yggdroot/indentLine ~/.vim/bundle/indentLine
 # 彩虹括号
 git clone https://github.com/kien/rainbow_parentheses.vim ~/.vim/bundle/rainbow_parentheses
 
+# 加入oh-my-zsh配置
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
